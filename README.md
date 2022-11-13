@@ -19,6 +19,11 @@ The created hack is a web application that relies on user input. It displays a l
 
 ![](https://github.com/poseidon-tech/img/blob/main/COVID-19%20Probability%20Detector%20-%20%5BInPrivate%5D%20-%20Microsoft%E2%80%8B%20Edge%2013-11-2022%2009_24_45.png)
 
+## HeatMap
+<hr>
+
+![](https://github.com/poseidon-tech/img/blob/main/output.png)
+
 ## To use this Application
 * First downlaod necessary software for running the application -(spyder,python,anaconda navigator)
 * Downlaod necesaary data sets from https://github.com/poseidon-tech/datasets
